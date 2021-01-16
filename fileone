@@ -1,2 +1,3 @@
 inventory=['honda', 'toyota']
 print inventory
+print(inventory)
